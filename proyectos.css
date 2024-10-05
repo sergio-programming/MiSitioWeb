@@ -1,0 +1,21 @@
+/*Carrusel*/
+.contenedor-carousel {
+    font-family: "Fredoka", sans-serif;    
+    padding: 3rem;
+}
+
+.contenedor-carousel h1 {
+    padding: 2rem;
+}
+
+.contenedor-carousel h1:hover {
+    text-shadow: 2px 3px 5px black;
+}
+
+.carousel-item img {
+    height: 300px;
+}
+
+.carousel-item h2:hover {
+    text-shadow: 2px 3px 5px black;
+}
